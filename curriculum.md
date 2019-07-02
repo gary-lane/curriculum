@@ -1,5 +1,19 @@
 # Base Camp Coding Academy 2017-2018
 
+**Starting Class**
+21 Students
+
+**First Quarter Evaluation**
+* _Friday, Sept 22, 2017_ 
+* 13 of 14 students promoted
+
+**Final Stats**
+* 9 graduated with employment
+    * 5 hired at CSpire
+    * 2 hired at FNC/CoreLogic
+    * 1 hired at National Center for Computational Hydroscience and Engineering at UM (NCCHE)
+    * 1 hired at MTrade (after graduation)
+
 # Software Development Curriculum
 
 ## Language Basics and Application Fundamentals
