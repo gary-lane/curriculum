@@ -1,113 +1,105 @@
-# Base Camp Coding Academy 2016-2017 
+# Base Camp Coding Academy 2017-2018
 
-Month(s) | Concepts
------------- | ------------- 
-June and July | **Programming Fundamentals in Python**, covered in _Practical Programming: An Introduction to Computer Science Using Python 3 (2nd Edition)_, added practice with instructor created lessons and activities. Gladiator Game and Tetris GUI were significant projects.
-August  and September |  **Web I HTML/CSS**,  covered in _HTML & CSS: Design and Build Websites_. Significant project was creating personal work portfolio.
-October, and November | **Web II Javascript**, covered in _JavaScript and jQuery: Interactive Front-End Web Development_. Signficiant project was games made in group work. APIs introduced during this time.
-December and January | **Full Stack Web Frame Work in Django**, covered in _Django Girls Tutorial_. 
-February | [Python Final Project] (https://drive.google.com/file/d/1h-XmKQ66V6nOeo3Afy3ram9clyaWRnup/view?usp=sharing)
-March | [Front End Final] (https://drive.google.com/file/d/1NAQEC036yB-ziWg4VpAdf8lOYh69UOD1/view?usp=sharing)
-April | [Django Final] (https://drive.google.com/file/d/1NAQEC036yB-ziWg4VpAdf8lOYh69UOD1/view?usp=sharing)
-May | Graduation
+# Software Development Curriculum
 
-**Starting Class**
-* 14 Students started the Program
+## Language Basics and Application Fundamentals
+### Part I: Language Basics and Application Fundamentals 
+* Language: Python
+* Resource: 
+    * Gries, Paul, Campbell, Jennifer, Montojo, Jason (2013) _Practical Programming: An Introduction to Computer Science Using Python 3 (2nd Edition)_. Dallas, TX: The Pragmatic Bookshelf.
+* Modules:
+    * Introduction to Programming
+    * Function Design
+    * Modular Program Organization
+    * Decision Making and Looping
+    * File Input/Output
+    * Basic Algorithm Analysis
+    * Data Collection Types
 
-**First Quarter Evaluation**
-* _August 17, 2017_
-* 12 Students Promoted at First Quarter Evaluation
+### Part II: Advanced Python Skills
+* Language: Python
+* Resource:
+    * Gries, Paul, Campbell, Jennifer, Montojo, Jason (2013) _Practical Programming: An Introduction to Computer Science Using Python 3 (2nd Edition)_. Dallas, TX: The Pragmatic Bookshelf.
+* Modules:
+    * Object-Oriented Programming
+    * Graphical User Interfaces
+    * Higher-Order Functions
 
-**Final Stats**
-* 11 Graduated with Employment Offers
-    * 6 at FedEx
-    * 4 at CSpire
-    * 1 at MTrade
-* 1 Posthumous Graduate
-
-
-# Base Camp Coding Academy Curriculum 
-
-### Initial Draft Curriculum
-### 01 April 2016
-
-Following March 2016 Initial Curriculum meeting.
-Attendees:
-* Sean Anthony
-* Kagan Coughlin
-* John Marsalis
-* Carla Lewis
-* Nate Clark
+* Cumulative Project:
+    * **Language Basics and Application Fundamentals: Command line program managing inventory and revenue for a fictional rental agency (Python).**
 
 
-Basic Concepts I | Basic Concepts II | Data I
------------- | ------------- | -------------
-Components | Logic | Data Types
-Concepts | Program Branches | Methods
-Computing | Testing and Validation | Sets
-Program Design | Loops and Arrays | Lists
-Functions | Search and Access | Libraries
-*Promotion 1!*
+## Essentials of Front End Development
+### Part III: Essentials of Front End Development
+* Languages: HTML/CSS/JS/jQuery
+* Resources:
+    * Duckett, Jon (2011). _HTML & CSS: Design and Build Websites_. Indianapolis, IN: John Wiley & Sons, Inc.
+    * Duckett, Jon (2014). _JavaScript and jQuery: Interactive Front-End Web Development_. Indianapolis, IN: John Wiley & Sons, Inc.
+* Modules:
+    * Web Page Construction and Structure
+    * HTML Elements
+    * CSS Formatting
+    * Front End Process and Design
+    * Basics of Programming in JavaScript
+    * Document Object Model (DOM) and Events
+    * Implementing jQuery
+    * Asynchronous Web Development, Ajax and JSON
+    * Accessing Application Programming Interfaces (APIs)
 
+* Cumulative Project:
+    *  **Front End Fundamentals: Dynamic web page storefront for a fictional company (HTML/CSS/JavaScript).**
 
-Data II | Databases I | Databases II
------------- | ------------- | -------------
-Inheritance | Properties and Types | SQL Language
-Input/Output | Modeling and Relationships | SQL Operators
-Data Formats | Relational Algebra | Data Manipulation
-Data Conversion | Normalizations | Data Control
-Serialization | Indices and Translations | Alternatives
-*Promotion 2!*
+## Full Stack MVC Web Development
+### Part IV: Full Stack MVC Web Development
+* Framework: Django
+* Resource: 
+    * Django Documentation. Django Software Foundation, 2017, www.docs.djangoproject.com/en/1.10/. Accessed 01 Feb. 2017.
+* Modules:
+    * Basics of Django and the Model Template View
+    * Planning and Constructing Models
+    * Mapping Data Structures
+    * Site Administration
+    * URL Routing
+    * Creating Generic and Custom Views
+    * Displaying Data with Templates
+    * Building Forms
 
+* Cumulative Project:
+    * **Full Stack MVC Fundamentals: Full stack application for an image based social media platform (Django).**
 
-Web I | Web II | Web III
------------- | ------------- | -------------
-Web Design | Front End Web | Server Side Web
-Web Pages | Javascript | C#
-HTML | jQuery | Structures and Libraries
-CSS | AJAX | Nancy
-Bootstrap | Libraries and Developer Tools | User Management
-*Promotion 3!*
+## Java Application Development
+### Part V: Foundations in Java
+* Language: Java
+    * Primitive Data Types
+    * Operators and Expressions
+    * Control Structures
+    * Object-Oriented Programming and Classes
+    * Collections
+    * Inheritance
+    * Exceptions
+    * Interfaces
 
+### Part VI: Spring Web Application Development 
+* Framework: Spring MVC
+    * Creating and building projects with Spring Boot
+    * Creating Controllers in Spring MVC
+    * Designing Views in JSP
+    * Processing and Validating Form Input
+    * Database Management with JDBC
+    * Securing Applications with Spring Security
 
-# Curriculum Workshop Agenda
-### Curriculum Workshop 03/24-03/25, Agenda
+* Cumulative Project:
+    * **Spring Web Application Development: Full stack web application for customers of a fictional service provider (Java/Spring/SQL)**
 
-Materials Needed
-Chart paper and markers, whiteboard and markers, printed curriculum examples and job postings
+## Professionalism and Personal Growth
+### Employment Preparation
+Following successful completion of the their final projects, some students may have the opportunity to job-shadow in a technical workplace. Additionally, the students will engage in tailored coursework to prepare for desired positions.
 
-#### Part 1: Getting to know each other
-* Norms?
-* Share Learning Structure
-* Student portfolios, units, feedback structures
+### Additional Coursework and Topics
+* Coursework: Individual and Group Projects, Online Courses (as determined by the teachers)
+* Modules: Command Line, Version Control (Git), Unit Testing, Selenium Testing 
+* Workplace: Resume Building, Writing Reports, Public Speaking, Personal Branding
+ 
+### Student Portfolios
+Student work samples can be found on the website: www.basecampcodingacademy.org/student-portfolios
 
-#### Part 2: Empathize
-* Say/Think/Do/Feel (for students at the end of the course)
-* Review FNC/CSPIRE needs, look at job postings
-* OBJECTIVE Creation
-
-#### Part 3: Define
-* Brainstorm: What are “resulting outcomes” for the students? Write and share on Post-It notes.
-* Refine - MoSCoW for “results” (MUST/SHOULD/COULD/WON’T)
-* Reorganize the outcomes: (concentric circles)
-* What is the “essential” understanding? (Inner - beliefs, deep knowledge, orientation)
-* What is important to know and do? (Middle - skills, habits)
-* What is worth being familiar with? (Outer - recall, facts)
-* __Determine Acceptable Evidence (what will successful outcomes be?)__
-
-#### Part 4: Ideate
-* (Hopefully this gets done by Thursday night)
-* Student development map; Unit topics and essential questions
-
-#### Part 5: Prototype
-* (I’m expecting this to be the bulk of Friday)
-* Plan and write unit topics and outcomes (post templates on wall)
-* __Unit Design Blueprint__
-
-#### Part 6: Test
-Compare to existing curriculum to see if there is anything missing
-
-#### Part 6.1: Refine
-Identify asset and growth areas; draft/implement changes
-
-#### Part 7: Close and Next Steps?
