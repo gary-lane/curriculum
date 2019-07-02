@@ -1,4 +1,33 @@
+# Base Camp Coding Academy 2016-2017 
+
+Month(s) | Concepts
+------------ | ------------- 
+June and July | **Programming Fundamentals in Python**, covered in _Practical Programming: An Introduction to Computer Science Using Python 3 (2nd Edition)_, added practice with instructor created lessons and activities. Gladiator Game and Tetris GUI were significant projects.
+August  and September |  **Web I HTML/CSS**,  covered in _HTML & CSS: Design and Build Websites_. Significant project was creating personal work portfolio.
+October, and November | **Web II Javascript**, covered in _JavaScript and jQuery: Interactive Front-End Web Development_. Signficiant project was games made in group work. APIs introduced during this time.
+December and January | **Full Stack Web Frame Work in Django**, covered in _Django Girls Tutorial_. 
+February | [Python Final Project] (https://drive.google.com/file/d/1h-XmKQ66V6nOeo3Afy3ram9clyaWRnup/view?usp=sharing)
+March | [Front End Final] (https://drive.google.com/file/d/1NAQEC036yB-ziWg4VpAdf8lOYh69UOD1/view?usp=sharing)
+April | [Django Final] (https://drive.google.com/file/d/1NAQEC036yB-ziWg4VpAdf8lOYh69UOD1/view?usp=sharing)
+May | Graduation
+
+**Starting Class**
+* 14 Students started the Program
+
+**First Quarter Evaluation**
+* _August 17, 2017_
+* 12 Students Promoted at First Quarter Evaluation
+
+**Final Stats**
+* 11 Graduated with Employment Offers
+    * 6 at FedEx
+    * 4 at CSpire
+    * 1 at MTrade
+* 1 Posthumous Graduate
+
+
 # Base Camp Coding Academy Curriculum 
+
 ### Initial Draft Curriculum
 ### 01 April 2016
 
