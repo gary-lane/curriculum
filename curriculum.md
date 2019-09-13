@@ -132,16 +132,17 @@
     * Technical Interview: Coding Challenge Interview
 
 ### Part VIII: Spring Web Application Development 
+* Language: Java, SQL
 * Framework: Spring MVC
     * Creating and building projects with Spring Boot
-    * Creating Controllers in Spring MVC
-    * Designing Views in JSP
-    * Processing and Validating Form Input
+    * Creating Rest Controllers in Spring MVC
+    * Validating Request JSON
+    * SQL Fundamentals
     * Database Management with JDBC
     * Securing Applications with Spring Security
 
 * Cumulative Project:
-    * **Spring Web Application Development: Full stack web application for customers of a fictional service provider (Java/Spring/SQL)**
+    * **Spring Web Application Development: Build a REST API using Java/Spring for a provided frontend.**
 
 ## Professionalism and Personal Growth
 ### Employment Preparation
