@@ -52,7 +52,7 @@
 * Resources:
     * [FreeCodeCamp](https://freecodecamp.org)
     * [CodePen](https://codepen.io)
-    * [Mozilla Developer Network)(https://developer.mozilla.org)
+    * [Mozilla Developer Network](https://developer.mozilla.org)
     * [html5up](https://html5up.com)
 * Modules:
     * Web Page Construction and Structure
@@ -70,7 +70,7 @@
 ### Part IV: Server Rendered Frontend Development
 * Languages: HTML, CSS, JavaScript, Django Template Language
 * Resource:
-    * [Mozilla Developer Network)(https://developer.mozilla.org)
+    * [Mozilla Developer Network](https://developer.mozilla.org)
     * Django Documentation. Django Software Foundation, 2017, www.docs.djangoproject.com/en/1.10/. Accessed 01 Feb. 2017.
 * Modules:
     * Converting Static HTML into a Template
