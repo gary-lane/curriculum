@@ -28,7 +28,6 @@
     * Modular Program Organization
     * Decision Making and Looping
     * File Input/Output
-    * Basic Algorithm Analysis
     * Data Collection Types
 
 ### Part II: Advanced Python Skills
