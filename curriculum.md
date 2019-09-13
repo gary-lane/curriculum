@@ -30,6 +30,11 @@
     * File Input/Output
     * Data Collection Types
 
+* Benchmark:
+    * Language Skills: codingbat.com Problem Progress
+    * Technical Communication: Mock Programming Interview
+    * Application Development: Client and Admin Command Line Applications Sharing JSON File Storage
+
 ### Part II: Advanced Python Skills
 * Language: Python
 * Resource:
