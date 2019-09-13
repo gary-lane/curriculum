@@ -46,25 +46,26 @@
     * **Language Basics and Application Fundamentals: Command line program managing inventory and revenue for a fictional rental agency (Python).**
 
 
-## Essentials of Front End Development
-### Part III: Essentials of Front End Development
-* Languages: HTML/CSS/JS/jQuery
+## Essentials of Static Front End Development
+### Part III: Essentials of Static Front End Development
+* Languages: HTML/CSS
 * Resources:
-    * Duckett, Jon (2011). _HTML & CSS: Design and Build Websites_. Indianapolis, IN: John Wiley & Sons, Inc.
-    * Duckett, Jon (2014). _JavaScript and jQuery: Interactive Front-End Web Development_. Indianapolis, IN: John Wiley & Sons, Inc.
+    * [FreeCodeCamp](https://freecodecamp.org)
+    * [CodePen](https://codepen.io)
+    * [Mozilla Developer Network)(https://developer.mozilla.org)
+    * [html5up](https://html5up.com)
 * Modules:
     * Web Page Construction and Structure
     * HTML Elements
+    * Box Model
+    * Layout vs Components
     * CSS Formatting
+    * CSS Flexbox
     * Front End Process and Design
-    * Basics of Programming in JavaScript
-    * Document Object Model (DOM) and Events
-    * Implementing jQuery
-    * Asynchronous Web Development, Ajax and JSON
-    * Accessing Application Programming Interfaces (APIs)
+    * Hosting on Github Pages
 
 * Cumulative Project:
-    *  **Front End Fundamentals: Dynamic web page storefront for a fictional company (HTML/CSS/JavaScript).**
+    *  **Static Front End Fundamentals: Static, brochure, multi-page, web site for a fictional company from scratch.**
 
 ## Full Stack MVC Web Development
 ### Part IV: Full Stack MVC Web Development
