@@ -67,6 +67,23 @@
 * Cumulative Project:
     *  **Static Front End Fundamentals: Static, brochure, multi-page, web site for a fictional company from scratch.**
 
+### Part IV: Server Rendered Frontend Development
+* Languages: HTML, CSS, JavaScript, Django Template Language
+* Resource:
+    * [Mozilla Developer Network)(https://developer.mozilla.org)
+    * Django Documentation. Django Software Foundation, 2017, www.docs.djangoproject.com/en/1.10/. Accessed 01 Feb. 2017.
+* Modules:
+    * Converting Static HTML into a Template
+    * Extracting Partials from a Template
+    * Submitting Forms
+    * JavaScript Fundamentals
+    * DOM manipulation
+    * Event Handling
+    * Fetching Data From an API Endpoint
+
+* Cumulative Project:
+    * **Server Rendered Frontend Development: Build frontend for provided starter django project.**
+     
 ## Full Stack MVC Web Development
 ### Part IV: Full Stack MVC Web Development
 * Framework: Django
