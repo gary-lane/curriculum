@@ -36,8 +36,6 @@
     * Gries, Paul, Campbell, Jennifer, Montojo, Jason (2013) _Practical Programming: An Introduction to Computer Science Using Python 3 (2nd Edition)_. Dallas, TX: The Pragmatic Bookshelf.
 * Modules:
     * Object-Oriented Programming
-    * Graphical User Interfaces
-    * Higher-Order Functions
 
 * Cumulative Project:
     * **Language Basics and Application Fundamentals: Command line program managing inventory and revenue for a fictional rental agency (Python).**
