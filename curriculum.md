@@ -21,6 +21,7 @@
 * Language: Python
 * Resource: 
     * Gries, Paul, Campbell, Jennifer, Montojo, Jason (2013) _Practical Programming: An Introduction to Computer Science Using Python 3 (2nd Edition)_. Dallas, TX: The Pragmatic Bookshelf.
+    * [Coding Bat](https://codingbat.com/python)
 * Modules:
     * Introduction to Programming
     * Function Design
