@@ -85,25 +85,33 @@
     * **Server Rendered Frontend Development: Build frontend for provided starter django project.**
      
 ## Full Stack MVC Web Development
-### Part IV: Full Stack MVC Web Development
+### Part V: Backend MVC Web Development
 * Framework: Django
 * Resource: 
     * Django Documentation. Django Software Foundation, 2017, www.docs.djangoproject.com/en/1.10/. Accessed 01 Feb. 2017.
 * Modules:
-    * Basics of Django and the Model Template View
-    * Planning and Constructing Models
-    * Mapping Data Structures
-    * Site Administration
+    * Fundamentals of HTTP
     * URL Routing
-    * Creating Generic and Custom Views
-    * Displaying Data with Templates
-    * Building Forms
+    * Handling Requests with Django Views
+    * Processing Forms with Django Forms
+    * Planning and Constructing Models
 
 * Cumulative Project:
-    * **Full Stack MVC Fundamentals: Full stack application for an image based social media platform (Django).**
+    * **Back End Fundamentals: Build backend for provided starter django project.**
+
+### Part VI: Full Stack MVC Development
+* Framework: Django
+* Resource: 
+    * Django Documentation. Django Software Foundation, 2017, www.docs.djangoproject.com/en/1.10/. Accessed 01 Feb. 2017.
+* Modules:
+    * Fundamentals of Cookie-Based Authentication and Authorization
+    * Basics of End-To-End Testing
+
+* Cumulative Project:
+    * **Full Stack MVC Fundamentals: Build a CRUD app with at least 2 non-User resources, appropriate authentication and authorization, and at least 80% test coverage.** 
 
 ## Java Application Development
-### Part V: Foundations in Java
+### Part VII: Foundations in Java
 * Language: Java
     * Primitive Data Types
     * Operators and Expressions
@@ -114,7 +122,7 @@
     * Exceptions
     * Interfaces
 
-### Part VI: Spring Web Application Development 
+### Part VIII: Spring Web Application Development 
 * Framework: Spring MVC
     * Creating and building projects with Spring Boot
     * Creating Controllers in Spring MVC
