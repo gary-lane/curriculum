@@ -113,6 +113,11 @@
 ## Java Application Development
 ### Part VII: Foundations in Java
 * Language: Java
+* Resource: 
+    * Head First Java
+    * [CodingBat](https://codingbat.com/java)
+    * [CodeWars](https://codewars.com)
+* Language: Java
     * Primitive Data Types
     * Operators and Expressions
     * Control Structures
@@ -121,6 +126,10 @@
     * Inheritance
     * Exceptions
     * Interfaces
+
+* Benchmarks:
+    * Language Skills: CodingBat and CodeWars completion
+    * Technical Interview: Coding Challenge Interview
 
 ### Part VIII: Spring Web Application Development 
 * Framework: Spring MVC
