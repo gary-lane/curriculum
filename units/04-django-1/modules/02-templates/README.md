@@ -49,3 +49,14 @@ Add navigation with appropriate path name usage. You should have two paths with 
 ### Step 5
 
 Refactor the project to share a base template between the list page and detail page.
+
+## Mastery Check (Project)
+
+You will be asked to create a django project (and app) that allows the user to view some simple information about a domain. Your project will have to:
+
+- [ ] Have a page that lists all items that you can view
+- [ ] Have a page that views detailed information about a single item
+- [ ] Use a dataclass to represent your domain objects
+- [ ] Use a small amount of CSS linked as a static resource
+- [ ] Use path names and the url template tag for less error-prone navigation
+- [ ] Use a base template and template inheritance

@@ -31,3 +31,7 @@ For each of the paths bases below, implement the corresponding codingbat challen
 2. [ ] `warmup-2/string-splosion/...` implemented with 3 test cases.
 3. [ ] `string-2/cat-dog/...` implemented with 3 test cases.
 4. [ ] `logic-2/lone-sum/...` implemented with 3 test cases.
+
+## Mastery Check (Benchmark)
+
+You will be asked to create a django project (and app) with a few small coding challenge style views that accept string or numeric information from the path. You will also be required to write test cases for these views.

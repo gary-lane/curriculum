@@ -13,3 +13,7 @@ Create a project at `<directory>`, run the web server, and visit the application
 1. `~/projects/yet-another-pokedex`
 2. `~/projects/facebook-clone`
 3. `~/projects/fake-movie-database`
+
+## Mastery Check (Benchmark)
+
+You will be asked to create and run a django project in a directory chosen by your instructor.
