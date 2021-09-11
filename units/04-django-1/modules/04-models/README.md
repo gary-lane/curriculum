@@ -2,7 +2,13 @@
 
 ## Videos
 
-1. [...](./videos/...)
+1. [Hello Models](./videos/hello-models.mp4)
+2. [Creating Models](./videos/creating-models.mp4)
+3. [Migrating The Database](./videos/migrating-the-database.mp4)
+4. [CRUD with Models](./videos/model-crud.mp4)
+5. [What's Under Models?](./videos/whats-under-models.mp4)
+6. [Better Models](./videos/better-models.mp4)
+7. [More About Queries](./videos/more-about-queries.mp4)
 
 ## Exercises
 
