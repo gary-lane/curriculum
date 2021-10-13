@@ -11,3 +11,15 @@ class Balloon:
     def release(self):
         self.amount -= 2
         self.amount = max(0, self.amount)
+
+class SwordBalloon(Balloon):
+    capacity = 5
+    amount = 0
+
+class DogBalloon(Balloon):
+    capacity = 7
+    amount = 0
+
+class TriforceBalloon(Balloon):
+    capacity = 11
+    amount = 0
